@@ -1,0 +1,12 @@
+{
+    "bot_token": "",
+    "admins_id": [],
+    "logging_level": "DEBUG",
+    "database": {
+      "user": "postgres",
+      "password": "",
+      "host": "localhost",
+      "database": ""
+    }
+}
+  
